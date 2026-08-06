@@ -1,10 +1,10 @@
-# 📊 Business Intelligence Portfolio
+# Portfolio BI
 
 Seja Bem-Vindo!
 
 Olá, me chamo Gabriel Pereira, e esse repositório contém projetos BI desenvolvido durante meus estudos para meu desenvolvimento professional.
 
-## 🚀 Tecnologias 
+## Tecnologias Usadas
 
 - Power BI
 - SQL
@@ -15,7 +15,7 @@ Olá, me chamo Gabriel Pereira, e esse repositório contém projetos BI desenvol
 
 ---
 
-## 📁 Projects
+## Projetos
 
 ### Project 01 – Dashboard de Vendas
 Em progresso...
@@ -31,13 +31,13 @@ Em breve...
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Desenvolver soluções analíticas que auxiliam na tomada de decisões por meio de modelagem de dados, análise SQL e painéis interativos.
 
 ---
 
-## 📫 Contato
+## Contato
 
 LinkedIn: https://www.linkedin.com/in/gabrielpeand/
 GitHub: https://github.com/bielcyberdevs/
