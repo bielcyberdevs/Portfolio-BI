@@ -1,0 +1,17 @@
+# Power BI
+*.pbix
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+#SQLite
+*.db
+*.sqlite
+
+# Windows
+Thumbs.db
+Desktop.ini
