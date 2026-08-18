@@ -2,7 +2,7 @@
 
 Seja Bem-Vindo!
 
-Olá, me chamo Gabriel Pereira, e esse repositório contém projetos BI desenvolvido durante meus estudos para meu desenvolvimento professional.
+Olá, me chamo Gabriel Andrade, e esse repositório contém projetos BI desenvolvido durante meus estudos para meu desenvolvimento professional.
 
 ## Tecnologias Usadas
 
